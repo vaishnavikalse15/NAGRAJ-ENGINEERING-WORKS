@@ -12,13 +12,15 @@
 
 | Role | Username | Password |
 |--------|----------|----------|
-| CEO | CEO1 | 358 |
-| HR | HR12 | 358 |
-| Production Head | PH10 | 358 |
-| Contractor | C20 | 358 |
-| Admin | Admin1211020 | 358 |
+| Contractor | C | 20 |
+| Production Head | PH | 10 |
+| CEO | CEO | 1 |
+| HR | HR | 12 |
+| Admin | Admin | 358 |
 
----
+> Login flow follows the organizational hierarchy:
+> **Contractor → Production Head → CEO → HR → Admin**
+
 
 ## 📌 Project Overview
 
